@@ -14,32 +14,28 @@ code {
     monospace;
 }
 
-.App {
-  height: 30rem;
-}
-
-.logo img {
+/* .logo img {
   width: 10rem;
 }
 
 .header {
   display: flex;
   justify-content: center;
-}
+} */
 
-.content {
+/* .content {
   display: flex;
   justify-content: center;
-}
+} */
 
-.pic {
+/* .pic {
   width: 250%;
-}
+} */
 
-.pic img {
+/* .pic img {
   width: 75%;
-}
+} */
 
-.about {
+/* .about {
   margin-right: 2rem;
-}
+} */
